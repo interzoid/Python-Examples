@@ -10,7 +10,7 @@ These are code examples showing how to call and utilize Interzoid's various Clou
 
 **GetEmailInformation.py** - Retrieves email validity and several other data points for a given email address - visit the API Page: https://www.interzoid.com/services/getemailinfo 
 
-**GetGlobalPhoneInformation.py** - Retrieves geographic information, mobile, language and other demographics for a global telephone number - visit the API Page: https://www.interzoid.com/services/getglobalnumberinfo
+**GetGlobalNumberInformation.py** - Retrieves geographic information, mobile, language and other demographics for a global telephone number - visit the API Page: https://www.interzoid.com/services/getglobalnumberinfo
 
 **GetPagePerformance.py** - Measures page load times or API call performance from 20+ global locations - visit the API Page: https://www.interzoid.com/services/globalpageload 
 
