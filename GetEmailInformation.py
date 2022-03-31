@@ -1,4 +1,4 @@
-# Get API key at www.interzoid.com/register
+# Get API key at www.interzoid.com/register-api-account
 import requests
 
 response = requests.get('https://api.interzoid.com/getemailinfo?license=YOURAPIKEY&email=winston.smith@maths.ox.ac.uk')
