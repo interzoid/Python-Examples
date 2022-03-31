@@ -1,4 +1,4 @@
-# Get API key at www.interzoid.com/register
+# Get API key at www.interzoid.com/register-api-account
 import requests
 
 response = requests.get('https://api.interzoid.com/globalpageload?license=YOURAPIKEY&origin=Singapore&url=http://www.ebay.com')
